@@ -83,7 +83,7 @@ https://www.figma.com/file/UXOr6Lf3KHDvQZSKNiwEuV/iOS-App-Wireframes-(Community)
 ### [BONUS] Interactive Prototype
 https://www.figma.com/proto/UXOr6Lf3KHDvQZSKNiwEuV/iOS-App-Wireframes-(Community)?type=design&node-id=431-1049&t=to91S54rovvnJVRd-1&scaling=min-zoom&page-id=431%3A1048&starting-point-node-id=431%3A1049&mode=design
 
-##Walkthrough
+## Walkthrough
 <img src='./Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Networking
